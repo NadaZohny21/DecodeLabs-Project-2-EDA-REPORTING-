@@ -1,5 +1,5 @@
-# DecodeLabs-Project-2-EDA-REPORTING-
-# Exploratory Data Analysis (EDA) — DecodeLabs Internship Project 2
+# Project-EDA-REPORTING-
+# Exploratory Data Analysis (EDA) — Project 2
 
 ## What this project does
 Performs a full exploratory data analysis on a sales order dataset 
@@ -27,5 +27,4 @@ of 1,200 transactions to uncover business insights, patterns, and trends.
 1,200 sales orders with 16 variables including OrderID, Date, 
 Product, Price, Order Status, Referral Source, and Coupon Code.
 
-## Internship
-DecodeLabs Data Analytics Internship — Batch 2026
+
